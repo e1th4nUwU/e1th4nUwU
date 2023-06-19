@@ -7,13 +7,12 @@
     <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=435&lines=%E2%9C%A8+Hi+!+I'm+Eithan+%3D)+%E2%9C%A8" alt="H" /></a>
 </p>
 
-<br>
-
 Like you, I'm just a wandering soul on this planet we call Earth... oh, I'm also a computer engineering student at Faculty of Engineering, UNAM. I live in Mexico City and I'm very passionate about new technologies, operating systems, electronics, cybersecurity, project management and automation.
 
 <br>
 
 <h3 align="center">🌟 About me 🌟</h3>
+<hr>
 
 <p align="center">
     <img alt="panamiguel-gif" width="200px" src="media/pana-miguel.gif"</img>
@@ -30,6 +29,9 @@ Like you, I'm just a wandering soul on this planet we call Earth... oh, I'm also
 
 <h3 align="center">💬 Languages 💬</h3>
 
+<hr>
+
+
 <p align="center">
     <img alt="animaniacs-world-gif" width="200px" src="media/animaniacs-map.gif"</img>
 </p>
@@ -44,6 +46,8 @@ Like you, I'm just a wandering soul on this planet we call Earth... oh, I'm also
 
 <h3 align="center">🥇 Certifications 🥇</h3>
 
+<hr>
+
 <p align="center">
     <img alt="ellie-badge-gif" width="200px" src="media/ellie-badge.gif"</img>
 </p>
@@ -54,6 +58,9 @@ Like you, I'm just a wandering soul on this planet we call Earth... oh, I'm also
 <br>
 
 <h3 align="center">⌨️ Languages and Tools 🖱️</h3>
+
+<hr>
+
 
 <p align="center">
     <img alt="kobayashi-coding-gif" width="200px" src="media/kobayashi-coding.gif"</img>
@@ -86,7 +93,7 @@ Like you, I'm just a wandering soul on this planet we call Earth... oh, I'm also
 ##### 💡 Other 💡
 - Linux, Windows, Microsoft Office, Google Workspace, etc
 
-<br>
+<hr>
 
 <h3 align="center">📊 Stats 📊</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=e1th4nuwu&show_icons=true&locale=en&layout=compact" alt="e1th4nuwu" /></p>
@@ -97,11 +104,17 @@ Like you, I'm just a wandering soul on this planet we call Earth... oh, I'm also
 
 <h3 align="center">🏆 GitHub Trophies 🏆</h3> 
 
+<hr>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=e1th4nuwu" alt="e1th4nuwu" /></a> </p>
 
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
+
+<hr>
+
 
 <p align="center">
     <img alt="monkey-smartphone-gif" width="200px" src="media/monkey-smart-phone.gif"</img>
@@ -114,6 +127,9 @@ Like you, I'm just a wandering soul on this planet we call Earth... oh, I'm also
 <br>
 
 <h3 align="center">🤝 Support 🤝</h3>
+
+<hr>
+
 
 <p align="center">
     <img alt="robin-hood-gif" width="200px" src="media/robin-hood-poor.gif"</img>
