@@ -100,6 +100,10 @@ Like you, I'm just a wandering soul on this planet we call Earth... oh, I'm also
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=e1th4nuwu&show_icons=true&locale=en" alt="✨ Hi! I'm Eithan =) ✨" /></p>
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img width="120%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=e1th4nUwU&theme=react-dark"/>
+    </a>
+
 <br>
 
 <h3 align="center">🏆 GitHub Trophies 🏆</h3> 
