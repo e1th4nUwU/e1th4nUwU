@@ -7,7 +7,7 @@
     <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=435&lines=%E2%9C%A8+Hi+!+I'm+Eithan+%3D)+%E2%9C%A8" alt="H" /></a>
 </p>
 
-Like you, I'm just a wandering soul on this planet we call Earth... oh, I'm also a computer engineering student at Faculty of Engineering, UNAM. I live in Mexico City and I'm very passionate about new technologies, operating systems, electronics, cybersecurity, project management and automation.
+Like you, I'm just a wandering soul on this planet we call Earth... oh, I'm also a mechatronics engineering student at Faculty of Engineering, UNAM. I live in Mexico City and I'm very passionate about new technologies, operating systems, electronics, cybersecurity, project management and automation.
 
 <br>
 
