@@ -106,6 +106,7 @@ Like you, I'm just a wandering soul on this planet we call Earth... oh, I'm also
 
 - **President of the IEEE Student Branch at UNAM** — Leading technical, outreach, and training initiatives to foster collaboration and student growth.  
 - **Engineering Intern at Meraki** — Gaining industry experience working with cloud technologies, automation, and engineering projects.
+- **Intern at Smeisa** - Working inside the R&D department, mainly with embedded systems, IT infrastructure and networking.
 
 <br>
 
