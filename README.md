@@ -8,7 +8,7 @@
     </a>
 </p>
 
-Like you, I'm just a wandering soul on this planet we call Earth... oh, I'm also a mechatronics engineering student at the Faculty of Engineering, UNAM. I live in Mexico City and I’m passionate about automation, data, networking, leadership, and continuous learning.
+Like you, I'm just a wandering soul on this planet we call Earth... oh, I'm also a mechatronics engineering student (10th semester) at the Faculty of Engineering, UNAM. I live in Mexico City and I'm passionate about networking, cybersecurity, robotics, data engineering, and continuous learning.
 
 <br>
 
@@ -19,12 +19,14 @@ Like you, I'm just a wandering soul on this planet we call Earth... oh, I'm also
     <img alt="panamiguel-gif" width="200px" src="media/pana-miguel.gif" />
 </p>
 
-- 🌱 I’m currently learning about Network Engineering, Meraki Systems, Embedded Systems, Manufacturing and AI Models.
-- 👯 I’m looking to collaborate on engineering projects across disciplines (electrical, aerospace, biomedical, etc).  
-- 🤔 I’m looking for a way to run a marathon in under 3 hours.
-- 💬 Ask me about my music taste, anime, videogames, workout routines, and more.  
+- 🔧 Working on my **thesis**: Collaborative Robotic Swarm (multi-agent planning with ROS 2).
+- 🌱 Currently learning about **Network Security (CCNP Security track)**, **Ethical Hacking**, **Data Engineering**, and **Rust**.
+- 🏛️ **President of the IEEE Student Branch at UNAM** & **Secretary of IEEE Computer Society UNAM**.
+- 👯 Looking to collaborate on engineering projects across disciplines — networking, robotics, embedded systems, cybersecurity.
+- 🐧 Linux enthusiast. LaTeX nerd (Beamer + Madrid theme, fight me).
+- 💬 Ask me about networking, anime, music, videogames, or why Rust is cool.
 - 😄 Pronouns: he/him/er.
-- ⚡ Fun fact: I do a LOT of intense cardio — at least 1 hour a day, 6 days a week. Don’t try to outrun me on long distances, you’ll lose.
+- ⚡ Fun fact: I ran my own clothing brand (UwU Clothes) for 4 years before going full engineer mode.
 
 <br>
 
@@ -35,10 +37,10 @@ Like you, I'm just a wandering soul on this planet we call Earth... oh, I'm also
     <img alt="animaniacs-world-gif" width="200px" src="media/animaniacs-map.gif" />
 </p>
 
-* 🇲🇽 Spanish (Native) 🇪🇸  
-* 🇬🇧 English (C1) 🇺🇸  
-* 🇩🇪 German (B1) 🇦🇹  
-* 🇮🇹 Italian (A1) 🇮🇹  
+* 🇲🇽 Spanish (Native) 🇪🇸
+* 🇬🇧 English (C1) 🇺🇸
+* 🇩🇪 German (B1) 🇦🇹
+* 🇮🇹 Italian (A1) 🇮🇹
 
 <br>
 
@@ -49,64 +51,75 @@ Like you, I'm just a wandering soul on this planet we call Earth... oh, I'm also
     <img alt="ellie-badge-gif" width="200px" src="media/ellie-badge.gif" />
 </p>
 
-* [AZ 900](https://www.credly.com/badges/f770b36d-fab4-4241-bce6-14bf0c4c92b4/public_url) (Microsoft Azure Fundamentals)  
-* [GitHub Foundations](https://www.credly.com/badges/925c2d0e-519c-4a48-be25-63ef53b9b8ea/linked_in_profile) (GitHub Learning Lab)
-* ÖSD Zertifikat A2 (Österreichisches Sprachdiplom)
-* FCE (English Certification): C1 level  
+* **CCNA** — Cisco Certified Network Associate
+* [AZ-900](https://www.credly.com/badges/f770b36d-fab4-4241-bce6-14bf0c4c92b4/public_url) — Microsoft Azure Fundamentals
+* [GitHub Foundations](https://www.credly.com/badges/925c2d0e-519c-4a48-be25-63ef53b9b8ea/linked_in_profile) — GitHub Learning Lab
+* ÖSD Zertifikat A2 — Österreichisches Sprachdiplom
+* FCE — Cambridge English (C1 level)
 
 <br>
 
-<h3 align="center">⌨️ Main Skills & Tools (I'm a quick learner tho)🖱️</h3>
+<h3 align="center">⌨️ Main Skills & Tools ⌨️</h3>
 <hr>
 
 <p align="center">
     <img alt="kobayashi-coding-gif" width="200px" src="media/kobayashi-coding.gif" />
 </p>
 
+##### 🖥️ Networking & Security
+- Switching, Routing, VLANs, Network Automation
+- Cisco IOS, Packet Tracer, Wireshark, Meraki
+- Ethical Hacking, Pentesting
+
 ##### 🧑‍💻 Programming Languages
-- C, C++, Python, Java, R, MATLAB, JavaScript
+- Python, Rust, C, C++, SQL, R, MATLAB, JavaScript
 
-##### 🌐 Web Development  
-- HTML, CSS, JavaScript, Bootstrap, Tailwind, React, Node.js, DJango, Flask
+##### 🌐 Web Development
+- HTML, CSS, JavaScript, Bootstrap, Tailwind, React, Node.js, Django, Flask
 
-##### 🤖 Embedded Systems  
-- Arduino, Raspberry Pi, ESP32, STM32, Digital Circuits, PCB Design
+##### 🤖 Embedded Systems & IoT
+- Arduino, Raspberry Pi, ESP32, STM32
+- LoRa, RTL-SDR, RFID/NFC
+- Digital Circuits, PCB Design
 
-##### 📜 Scripting & Automation  
-- Bash, PowerShell, Airflow, Docker, Kubernetes
+##### 🦾 Robotics
+- ROS 2, Multi-Robot Systems, Collaborative Planning
 
-##### 🐱 Version Control  
-- Git, GitHub, Gitlab
+##### 📜 Scripting, Automation & DevOps
+- Bash, PowerShell, Docker, Kubernetes
+- Ansible, Puppet, Airflow
 
-##### 📔 Databases & Data Tools  
-- Oracle SQL, PostgreSQL, MongoDB, BigQuery, PySpark, Polars, Numpy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch
+##### ☁️ Cloud Platforms
+- AWS, Google Cloud Platform, Microsoft Azure
 
-##### ☁️ Cloud Platforms & Technologies  
-- Microsoft Azure, AWS, Google Cloud Platform  
+##### 📔 Databases & Data Engineering
+- Oracle SQL, PostgreSQL, MongoDB, BigQuery
+- PySpark, Polars, Pandas, NumPy
 
-##### 📈 Data Analysis & Visualization  
-- Excel, MATLAB, R, Power BI, Grafana, Polars, Numpy, Pandas, Matplotlib, Seaborn
+##### 📈 Data Analysis & Visualization
+- Matplotlib, Seaborn, Power BI, Grafana
+- TensorFlow, PyTorch
 
-##### 📝 Documentation & Text Formatting  
-- Markdown, LaTeX, Sphinx, Jupyter Notebooks
+##### 📝 Documentation & Text
+- LaTeX (Beamer), Markdown, Sphinx, Jupyter Notebooks
 
-##### 🤝 Collaboration & Project Management  
-- Jira, Kanban, Slack  
+##### 🐱 Version Control
+- Git, GitHub, GitLab
 
-##### 🖥️ Networking  
-- Cisco Packet Tracer, Wireshark, Meraki Systems, Network Automation
-
-##### 🌍 Languages  
-- Spanish (Native), English (C1), German (B1), Italian (A1)
+##### 🤝 Collaboration & Project Management
+- Jira, Kanban, Slack
 
 <hr>
 
-<h3 align="center">💼 Current Roles 💼</h3>
+<h3 align="center">💼 Experience 💼</h3>
 <hr>
 
-- **President of the IEEE Student Branch at UNAM** — Leading technical, outreach, and training initiatives to foster collaboration and student growth.  
-- **Engineering Intern at Meraki** — Gaining industry experience working with cloud technologies, automation, and engineering projects.
-- **Intern at Smeisa** - Working inside the R&D department, mainly with embedded systems, IT infrastructure and networking.
+- **President — IEEE Student Branch, UNAM** · Leading technical, outreach, and training initiatives to foster collaboration and student growth.
+- **Secretary — IEEE Computer Society, UNAM** · Coordinating events, workshops, and technical talks.
+- **Instructor** · Teaching courses on Data Networking, Ethical Hacking, Data Engineering, Rust, LaTeX, Linux, and Databases.
+- **Ex-Intern — Cisco Meraki** · Worked with cloud technologies, network automation, and engineering projects.
+- **Ex-Intern — Smeisa** · R&D department — embedded systems, IT infrastructure, and networking.
+- **Member — PROTECSA** · Active member. Ex-becario PROTECO, ex-PumaHat.
 
 <br>
 
@@ -121,7 +134,7 @@ Like you, I'm just a wandering soul on this planet we call Earth... oh, I'm also
 
 <br>
 
-<h3 align="center">🏆 GitHub Trophies 🏆</h3> 
+<h3 align="center">🏆 GitHub Trophies 🏆</h3>
 <hr>
 
 <p align="left">
@@ -139,9 +152,11 @@ Like you, I'm just a wandering soul on this planet we call Earth... oh, I'm also
     <img alt="monkey-smartphone-gif" width="200px" src="media/monkey-smart-phone.gif" />
 </p>
 
-* [Telegram](https://t.me/EithanUwU) (best option)  
-* [Instagram](https://www.instagram.com/_nahtieithan_/)  
-* [Mail](mailto:eithantrevino@gmail.com)  
+* 🌐 [eithantrevino.com](http://eithantrevino.com/)
+* 💼 [LinkedIn](https://linkedin.com/in/eithan-trevino/)
+* ✈️ [Telegram](https://t.me/EithanUwU) (best option)
+* 📸 [Instagram](https://www.instagram.com/_nahtieithan_/)
+* 📧 [Mail](mailto:eithantrevino@gmail.com)
 
 <br>
 
